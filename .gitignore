@@ -1,0 +1,7 @@
+# UE4 Project directories to ignore
+
+.vscode/*
+
+folderToIgnore/*
+
+.vs/*
